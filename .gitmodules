@@ -1,3 +1,0 @@
-[submodule "third-party/pistache"]
-	path = third-party/pistache
-	url = https://github.com/oktal/pistache
